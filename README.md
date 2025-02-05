@@ -16,3 +16,4 @@
 ![image alt](https://github.com/Sudhanshu579/websiteDNK/blob/9fcb0278a3c423bb6ac2d85c1749b7435c4d0553/AIR%2BJORDAN%2B1%2BMID.jpg)
 ![image alt](https://github.com/Sudhanshu579/websiteDNK/blob/d65317187453aa7909a6793f80a4e825f0391c70/addi.png)
 ![image alt](https://github.com/Sudhanshu579/websiteDNK/blob/867bbe4e33172511e34f48c19c50ca724adaab01/bag.jpg)
+![image alt](https://github.com/Sudhanshu579/websiteDNK/blob/a489bbaec6f68b359d7d35bf222b4c45d3720bf8/banner%20shoes.jpg)
