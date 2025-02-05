@@ -17,3 +17,4 @@
 ![image alt](https://github.com/Sudhanshu579/websiteDNK/blob/d65317187453aa7909a6793f80a4e825f0391c70/addi.png)
 ![image alt](https://github.com/Sudhanshu579/websiteDNK/blob/867bbe4e33172511e34f48c19c50ca724adaab01/bag.jpg)
 ![image alt](https://github.com/Sudhanshu579/websiteDNK/blob/a489bbaec6f68b359d7d35bf222b4c45d3720bf8/banner%20shoes.jpg)
+![image alt](https://github.com/Sudhanshu579/websiteDNK/blob/664299e0d6e2b1903bbad433ab0a29d0a532f495/girl2.jpg)
