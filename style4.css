@@ -193,7 +193,7 @@ header{
 }
 
 .banner{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.30),rgba(0, 0, 0, 0.30),rgba(0, 0, 0, 0.30)),url("../image/girl2.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.30),rgba(0, 0, 0, 0.30),rgba(0, 0, 0, 0.30)),url("girl2.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -232,7 +232,7 @@ header{
     transition: 0.5s;
 }
 .banner2{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.30),rgba(0, 0, 0, 0.30),rgba(0, 0, 0, 0.30)),url("../image/banner%20shoes.jpg");
+    background-image:linear-gradient(rgba(0, 0, 0, 0.30),rgba(0, 0, 0, 0.30),rgba(0, 0, 0, 0.30)),url("banner%20shoes.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -272,7 +272,7 @@ header{
 }
 
 .banner3{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.30),rgba(0, 0, 0, 0.30),rgba(0, 0, 0, 0.30)),url("../image/banner%20watch.jpg");
+    background-image:linear-gradient(rgba(0, 0, 0, 0.30),rgba(0, 0, 0, 0.30),rgba(0, 0, 0, 0.30)),url("banner%20watch.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -356,7 +356,7 @@ header{
 }
 
 .contact_us{
-    background-image: url(../image/girl.jpg);
+    background-image: url(girl.jpg);
     background-attachment: scroll;
     background-size: cover;
     background-position: center;
@@ -542,7 +542,7 @@ form .text textarea{
             }
 
 .offer {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.30),rgba(0, 0, 0, 0.30),rgba(0, 0, 0, 0.30)),url(../image/yellow%20t%20shirt.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.30),rgba(0, 0, 0, 0.30),rgba(0, 0, 0, 0.30)),url(yellow%20t%20shirt.jpg);
     background-attachment: scroll;
     background-size: cover;
     background-position: center;
